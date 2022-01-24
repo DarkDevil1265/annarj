@@ -120,3 +120,8 @@ Contact Me On [Telegram](https://t.me/Pro_editor_tg)
 Code released under [The GNU General Public License](LICENSE).
 ## credit 🤠
 https://t.me/PANDITHAN_SIR
+
+
+
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDarkDevil1265%2FRailwaywork&envs=ADMINS%2CAPI_HASH%2CAPI_ID%2CBOT_TOKEN%2CDATABASE_NAME%2CDATABASE_URI%2CLOG_CHANNEL%2CPICS%2CSINGLE_BUTTON%2CSUPPORT_CHAT%2CUSE_CAPTION_FILTER%2CCUSTOM_FILE_CAPTION%2CCOLLECTION_NAME&ADMINSDesc=Username+or+ID+of+Admin.+Separate+multiple+Admins+by+space.&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&API_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&BOT_TOKENDesc=Your+bot+token&DATABASE_NAMEDesc=Name+of+the+database+in+mongoDB.+&DATABASE_URIDesc=mongoDB+URI.+Get+this+value+from+https%3A%2F%2Fwww.mongodb.com&LOG_CHANNELDesc=Bot+Logs%2CGive+a+channel+id+with+-100xxxxxxx&PICSDesc=Pics+for+bot&SINGLE_BUTTONDesc=choose+b%2Fw+single+or+double+buttons+%28single+button-+True%2C+Double+button-+false%29&SUPPORT_CHATDesc=Username+of+a+Support+Group+%2F+ADMIN.+%28+Should+be+username+without+%40+and+not+ID%29&USE_CAPTION_FILTERDesc=Whether+bot+should+use+captions+to+improve+search+results.+%28True+False%29&CUSTOM_FILE_CAPTIONDesc=File+name&COLLECTION_NAMEDesc=Files&USE_CAPTION_FILTERDefault=False&CUSTOM_FILE_CAPTIONDefault=%40Cine_makotta&COLLECTION_NAMEDefault=Telegram_files&referralCode=LBlqTu)
